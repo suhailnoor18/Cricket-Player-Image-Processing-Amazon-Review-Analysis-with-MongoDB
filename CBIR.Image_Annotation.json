@@ -1,0 +1,408 @@
+[{
+  "_id": {
+    "$oid": "6759951d227a1205182cc265"
+  },
+  "Picture number": "player22",
+  "Keywords": "Rashid_Khan,Afghanistan,Allrounder",
+  "Description": "Right arm leg spinner and right hand batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc27e"
+  },
+  "Picture number": "player45",
+  "Keywords": "Anrich_Nortje,South_Africa,Bowler",
+  "Description": "Right arm fast bowler"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc25d"
+  },
+  "Picture number": "player15",
+  "Keywords": "Wanindu_Hasaranga,Sri_Lanka,Allrounder",
+  "Description": "Right hand batting and right arm leg spinner"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc274"
+  },
+  "Picture number": "player36",
+  "Keywords": "Nicolas_Pooran,West_Indies,Wicketkeeper_batsman",
+  "Description": "A left handed top order wicketkeeper batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc276"
+  },
+  "Picture number": "player38",
+  "Keywords": "johnny_Bairstow,England,Wicketkeeper_batsman",
+  "Description": "A right handed explosive opening wicketkeeper batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc25e"
+  },
+  "Picture number": "player16",
+  "Keywords": "Pat_Cummins,Australia,Bowling_allrounder",
+  "Description": "Right arm fast bowler and right hand batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc27f"
+  },
+  "Picture number": "player46",
+  "Keywords": "Rachin_Ravindra,New_Zealand,Batsman",
+  "Description": "Left handed one down batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc282"
+  },
+  "Picture number": "player49",
+  "Keywords": "Dunith_Wellalage,Sri_Lanka,Allrounder",
+  "Description": "Left arm orthodox and left handed middle order batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc261"
+  },
+  "Picture number": "player19",
+  "Keywords": "Nathan_lyon,Australia,Spinner",
+  "Description": "Right arm off spinner"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc269"
+  },
+  "Picture number": "player26",
+  "Keywords": "Hardik_Pandya,India, Allrounder",
+  "Description": "Right handed batsman and Right arm medium fast bowler"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc26d"
+  },
+  "Picture number": "player3",
+  "Keywords": "Rishabh_Pant,India,Wicketkeeper_batsman",
+  "Description": "Middle order wicketkeeper_batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc270"
+  },
+  "Picture number": "player32",
+  "Keywords": "Kusal_Perera,Sri_Lanka,Wicketkeeper_batsman",
+  "Description": "A left handed opening wicketkeeper batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc286"
+  },
+  "Picture number": "player6",
+  "Keywords": "Joe_Root,England,Batsman",
+  "Description": "Right handed top order batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc264"
+  },
+  "Picture number": "player21",
+  "Keywords": "Kusal_Mendis,Sri_Lanka,Batsman",
+  "Description": "A right hand opening batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc268"
+  },
+  "Picture number": "player25",
+  "Keywords": "Trent_Boult,New_Zealand,Bowler",
+  "Description": "Left arm opening and death bowling fast bolwer"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc279"
+  },
+  "Picture number": "player40",
+  "Keywords": "Liam_Livinstone,England,Allrounder",
+  "Description": "Right hand middle order loft batsman and right arm off spinner"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc280"
+  },
+  "Picture number": "player47",
+  "Keywords": "Jofra_Archer,England,Bowler",
+  "Description": "Right arm fast bowler and tailender batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc25a"
+  },
+  "Picture number": "player12",
+  "Keywords": "Naseem_Shah,Pakistan,Bowler",
+  "Description": "A right arm fasting bowler"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc260"
+  },
+  "Picture number": "player18",
+  "Keywords": "Sam_Curran,England,Allrounder",
+  "Description": "Right arm fast bowler and right hand batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc275"
+  },
+  "Picture number": "player37",
+  "Keywords": "Najmul_Shanto,Bangladesh,Batsman",
+  "Description": "A right handed one down batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc284"
+  },
+  "Picture number": "player50",
+  "Keywords": "Josh_Buttler,England,Wicketkeeper_batsman",
+  "Description": "Right handed opening wickekeeper batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc289"
+  },
+  "Picture number": "player9",
+  "Keywords": "Virat_Kohli,India,Batsman",
+  "Description": "Most technically sound top order batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc259"
+  },
+  "Picture number": "player11",
+  "Keywords": "Henrich_Klassen,South_Africa,Batsman",
+  "Description": "A right top order loft batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc26b"
+  },
+  "Picture number": "player28",
+  "Keywords": "Benstokes,England,Allrounder",
+  "Description": "Explosive left handed batsmen and right arm medium fast bowler"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc27c"
+  },
+  "Picture number": "player43",
+  "Keywords": "Sachin_Tendulkar,India,Batsman",
+  "Description": "Right handed technically sound opening batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc281"
+  },
+  "Picture number": "player48",
+  "Keywords": "Mitch_Santner,New_Zealand,Allrounder",
+  "Description": "Left handed lower order batsman and left arm off spinner"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc285"
+  },
+  "Picture number": "player51",
+  "Keywords": "Corey_Anderson,USA,Allrounder",
+  "Description": "Left handed middle order bastman and right arm slow fast bowler"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc257"
+  },
+  "Picture number": "player1",
+  "Keywords": "Bhuvaneshwar_Kumar,India,Bowler",
+  "Description": "A right arm medium swing fast bowler"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc258"
+  },
+  "Picture number": "player10",
+  "Keywords": "Tim_David,Australia,Batsman",
+  "Description": "A  right hand middle order power hitting batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc26f"
+  },
+  "Picture number": "player31",
+  "Keywords": "kane_Williamson,New_Zealand,batsman",
+  "Description": "A right handed top order batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc278"
+  },
+  "Picture number": "player4",
+  "Keywords": "Shubman_Gill,India,batsman",
+  "Description": "Right handed opening batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc25b"
+  },
+  "Picture number": "player13",
+  "Keywords": "Glenn_Philips,New_Zealand,Allrounder",
+  "Description": "A batting allrounder"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc263"
+  },
+  "Picture number": "player20",
+  "Keywords": "Ramesh_Mendis,Sri_Lanka,Allrounder",
+  "Description": "Right arm off spin and right hand batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc26a"
+  },
+  "Picture number": "player27",
+  "Keywords": "Mitchel_Starc,Australia,Bowler",
+  "Description": "Left arm fast bowler"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc283"
+  },
+  "Picture number": "player5",
+  "Keywords": "Andre_Russel,West_Indies,Allrounder",
+  "Description": "Right handed explosive middle order batsman and right arm medium fast bowler"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc287"
+  },
+  "Picture number": "player7",
+  "Keywords": "Steve_Smith,Australia,Allrounder",
+  "Description": "Right handed one down batsman and right arm leg spinner"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc288"
+  },
+  "Picture number": "player8",
+  "Keywords": "Aaron_Finch,Australia,Batsman",
+  "Description": "Right handed opening batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc262"
+  },
+  "Picture number": "player2",
+  "Keywords": "Sikanda_Raza,Zimbabwe,Batting_Allrounder",
+  "Description": "Right hand batting and right arm off spinner"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc25f"
+  },
+  "Picture number": "player17",
+  "Keywords": "Jimmy_Anderson,England,Bowler",
+  "Description": "A right arm fasting bowler"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc266"
+  },
+  "Picture number": "player23",
+  "Keywords": "KL_Rahul,India,Wicketkeeper_batsman",
+  "Description": "right handed wicketkeeping batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc25c"
+  },
+  "Picture number": "player14",
+  "Keywords": "Shakib_Hasan,Bangladesh,Allrounder",
+  "Description": "Left hand batting and left arm spinner"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc271"
+  },
+  "Picture number": "player33",
+  "Keywords": "Matheesha_Pathirana,Sri_Lanka,Bowler",
+  "Description": "A Slinging action short format special fast bowler"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc272"
+  },
+  "Picture number": "player34",
+  "Keywords": "Jasprit_Bumrah,India,Bowler",
+  "Description": "A unique action swinging fast bowler"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc27a"
+  },
+  "Picture number": "player41",
+  "Keywords": "Babar_Azam_Pakistan,Batsman",
+  "Description": "Right handed technically sound opening batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc27d"
+  },
+  "Picture number": "player44",
+  "Keywords": "Tim_Southee,New_Zealand,Bowler",
+  "Description": "Right arm medium fast bowler"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc26c"
+  },
+  "Picture number": "player29",
+  "Keywords": "David_Miller,South_Africa,Batsman",
+  "Description": "An explosive left handed middle order batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc26e"
+  },
+  "Picture number": "player30",
+  "Keywords": "Moeen_Ali,England,Allrounder",
+  "Description": "Explosive left hand batsman and right arm off spinner"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc277"
+  },
+  "Picture number": "player39",
+  "Keywords": "Shreyas_Iyer,India,Batsman",
+  "Description": "A right handed top order technique batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc267"
+  },
+  "Picture number": "player24",
+  "Keywords": "Mohomed_Nabi,Afghanistan,Allrounder",
+  "Description": "Right arm off spinner and lower order batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc273"
+  },
+  "Picture number": "player35",
+  "Keywords": "David_Warner,Australia,Bastman",
+  "Description": "A left handed opening batsman"
+},
+{
+  "_id": {
+    "$oid": "6759951d227a1205182cc27b"
+  },
+  "Picture number": "player42",
+  "Keywords": "Wasim_Akram,Pakistan,Bowler",
+  "Description": "Left arm deadly swing fast bowler"
+}]
